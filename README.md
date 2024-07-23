@@ -1,2 +1,2 @@
 # customer_segmentation
-Developed a ML model to give various recommendations of financial products
+Customers segmentation using clustering models to give products and services recommendations
